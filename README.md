@@ -1,2 +1,13 @@
-# sunset-game-music
-Generated sunset-feeling background music for small games
+# 日落小遊戲音樂 (Sunset Game Music)
+
+這是一首帶有日落感覺的小遊戲背景音樂。
+
+- 時長：約48秒（可循環）
+- 節拍：68 BPM
+- 和弦進行：Cmaj7 - Am7 - Fmaj7 - G
+- 風格：溫暖、寧靜、黃金時刻氛圍
+- 音色：柔和合成墊音、輕柔旋律、低音
+
+適合平台跳躍、冒險、放鬆類小遊戲。
+
+音樂檔案已生成，可在對話中下載。
